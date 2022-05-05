@@ -16,7 +16,8 @@ Python 3.8.5
 
 # Some Instructions
 
-- The code are divided for different sections.  
+- The code of the paper is divided into different sections. Among them, our network structure is placed in the model.py file in each section.
+- The result data is too large to upload, please contact me if you need it.
 - Please contact me if you have any questions about this code. My email: zouwx5@mail2.sysu.edu.cn
 
 
